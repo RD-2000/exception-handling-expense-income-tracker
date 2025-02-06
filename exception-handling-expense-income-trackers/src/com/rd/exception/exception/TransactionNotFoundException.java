@@ -1,4 +1,4 @@
-package com.rd.exception.exceptionhandling;
+package com.rd.exception.exception;
 
 public class TransactionNotFoundException  extends RuntimeException {
     public TransactionNotFoundException(String message) {

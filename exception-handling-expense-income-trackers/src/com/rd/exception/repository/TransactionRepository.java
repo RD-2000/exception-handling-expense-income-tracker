@@ -2,7 +2,7 @@ package com.rd.exception.repository;
 
 
 import com.rd.exception.model.Transaction;
-import com.rd.exception.exceptionhandling.TransactionNotFoundException;
+import com.rd.exception.exception.TransactionNotFoundException;
 
 import java.util.ArrayList;
 import java.util.HashMap;

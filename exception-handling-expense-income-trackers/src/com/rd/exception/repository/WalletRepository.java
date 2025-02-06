@@ -2,7 +2,7 @@ package com.rd.exception.repository;
 
 
 import com.rd.exception.model.Wallet;
-import com.rd.exception.exceptionhandling.WalletNotFoundException;
+import com.rd.exception.exception.WalletNotFoundException;
 
 import java.util.HashMap;
 

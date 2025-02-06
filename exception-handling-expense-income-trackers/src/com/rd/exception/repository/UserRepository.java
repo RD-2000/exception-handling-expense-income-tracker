@@ -1,7 +1,7 @@
 package com.rd.exception.repository;
 
 import com.rd.exception.model.User;
-import com.rd.exception.exceptionhandling.UserNotFoundException;
+import com.rd.exception.exception.UserNotFoundException;
 
 import java.util.HashMap;
 

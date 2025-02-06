@@ -1,4 +1,4 @@
-package com.rd.exception.exceptionhandling;
+package com.rd.exception.exception;
 
 
 public class WalletNotFoundException extends RuntimeException {

@@ -3,7 +3,7 @@ package com.rd.exception.services;
 
 import com.rd.exception.model.Wallet;
 import com.rd.exception.repository.WalletRepository;
-import com.rd.exception.exceptionhandling.WalletNotFoundException;
+import com.rd.exception.exception.WalletNotFoundException;
 
 public class WalletService {
     private WalletRepository walletRepository;
